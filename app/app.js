@@ -1,5 +1,6 @@
 'use strict';
 // https://docs.angularjs.org/guide/directive
+// https://thinkster.io/angular-tabs-directive
 // Declare app level module which depends on views, and components
 angular.module('myApp', [
   'ngRoute',
